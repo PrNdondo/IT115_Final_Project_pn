@@ -1,3 +1,3 @@
 # IT115 Final Project
 
-# $${\color{blue}Prince \space Ndondo}$$
+# $${\color{blue}BluePrince \space Ndondo}$$
