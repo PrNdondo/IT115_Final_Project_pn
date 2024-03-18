@@ -1,3 +1,3 @@
 # IT115 Final Project
 
-![#f03c15]# Prince Ndondo
+# $${\color{blue}BluePrince \space Ndondo}$$
