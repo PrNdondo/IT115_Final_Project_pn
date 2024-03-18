@@ -1,3 +1,4 @@
 # IT115 Final Project
 
-# $${\color{blue}BluePrince \space Ndondo}$$
+# Prince Ndondo
+# 69
